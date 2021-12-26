@@ -4,6 +4,8 @@
 | 19120330 | Nguyễn Đoan Phúc | https://github.com/doanphuc281201 |
 | 19120364 | Nguyễn Đắc Thắng | https://github.com/Ndthang01 |
 
+Link phân công công việc:https://docs.google.com/spreadsheets/d/1GWcj5RedClHLWMv3kdkY15B3g4sMd2odBtthck2GUyM/edit?usp=sharing
+
 # Qui định cách dùng github
 
 1. Trước tiên cần phải clone thùng chứa trên mạng về máy bằng lệnh ```git clone <tên đường dẫn của thùng chứa trên mạng>```.

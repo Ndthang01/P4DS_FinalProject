@@ -1,6 +1,0 @@
-Columns,description
-YEAR, Year in which the corresponding theatrical market data has been collected
-TICKETS SOLD,The total number of domestic movie tickets sold in each of the respective years
-TOTAL BOX OFFICE, Total box office collection combined of all movies released that particular year considered
-TOTAL INFLATION ADJUSTED BOX OFFICE, Adjusted box office collection with respect to the inflammation that has been caused over time
-AVERAGE TICKET PRICE, The average ticket price considering all films released that particular year considered

@@ -1,0 +1,4 @@
+1. Cài đặt công cụ miniconda
+2. Sử dụng môi trường được tạo ra từ file “min_ds-env.yml”
+3. Để kích hoạt môi trường, ta gõ "conda activate min_ds-env" ở terminal
+4. Chạy thư mục đồ án trên môi trường đã được kích hoạt
